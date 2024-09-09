@@ -79,9 +79,11 @@ s.send("acknowledgement received from the server".encode())
 ```
 ## OUTPUT:
 ### CLIENT:
-![Screenshot 2024-08-22 104825](https://github.com/user-attachments/assets/4ac49478-2fa4-405b-a956-6f3bd18c4da2)
+![Screenshot 2024-09-09 181324](https://github.com/user-attachments/assets/f3fa1164-4d9a-4ac1-9a07-401fa16eb8e4)
+
 ### SERVER:
-![Screenshot 2024-08-22 104833](https://github.com/user-attachments/assets/eb56fb6a-faad-434c-b980-587cb7ffce61)
+![image](https://github.com/user-attachments/assets/b19cfadc-7044-47f4-86e2-a6f515a19384)
+
 
 
 ## Result:
